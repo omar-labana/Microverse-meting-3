@@ -1,0 +1,12 @@
+#nav-bar{
+    position: fixed;
+    top: 0;
+}
+@media only screen and (max-width: 500px) {
+  body {
+    width: 90%;
+  }
+}
+form{
+    display: flex;
+}
